@@ -20,10 +20,10 @@
     const CATEGORIES = [
       { id: "all",        label: "All USD News",    emoji: "📡" },
       { id: "gold",       label: "Gold / XAUUSD",   emoji: "🥇" },
-      { id: "fed",        label: "Fed / FOMC",       emoji: "🏦" },
-      { id: "data",       label: "Economic Data",    emoji: "📊" },
-      { id: "dxy",        label: "DXY / Pairs",      emoji: "💱" },
-      { id: "prediction", label: "⚡ Predictions",   emoji: "🔮" },
+      { id: "fed",        label: "Fed / FOMC",      emoji: "🏦" },
+      { id: "data",       label: "Economic Data",   emoji: "📊" },
+      { id: "dxy",        label: "DXY / Pairs",     emoji: "💱" },
+      { id: "prediction", label: "⚡ Predictions",  emoji: "🔮" },
     ];
 
     const PROMPTS = {
